@@ -37,7 +37,6 @@ public class Switch {
                 case 3 -> System.out.println("Result is " + Multi(  a, b));
                 case 4 -> System.out.println("Result is " + Div(  a,  b));
                 case 5 -> System.out.println("Result is " + Mod(  a, b));
-                case 6-> System.out.println();
                 default -> System.out.println("Enter valid Choice ");
             }
         }
