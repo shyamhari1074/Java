@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class palindromeFrequency{
     public static void main(String [] avsh){
-        Scanner in= new Scanner(System.in);
+        Scanner in= new Scanner(System.in);,
         System.out.println("Enter the input--");
         String Freq=in.nextLine();
         System.out.println("Enter the character to be checked ");
