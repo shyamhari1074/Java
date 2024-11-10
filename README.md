@@ -43,12 +43,15 @@ To explore each program, make sure you have **Java** installed on your system. F
     ```bash
     java <filename>
     ```
-    # ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
-    Java Programming Concepts
+
 
 
 For instance, to compile and run the **Calculator.java** program:
 
 ```bash
 javac Calculator.java
-java Calculator
+ ```
+
+ # ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+Java Programming Concepts
+
